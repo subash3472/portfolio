@@ -1335,6 +1335,25 @@ section,
 }
 
 .hilight {
-  /* color: #2c3e50 !important;  */
   color: #006cf9 !important;
+}
+
+.header .profile-img img {
+  height: 115px;
+  width: 115px;
+}
+
+.pic_11 {
+  padding-left: 2px;
+  margin-top: 0px;
+}
+
+.zxzxz_qq {
+  margin-top: 100px;
+}
+
+@media only screen and (max-width: 600px) {
+  .zxzxz_qq {
+    margin-top: 0px;
+  }
 }
